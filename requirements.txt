@@ -1,0 +1,4 @@
+1. numpy==1.23.5 
+2. pytesseract==0.0.9  
+3. easyocr==2.2.0  
+4. opencv-python==4.8.0
